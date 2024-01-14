@@ -11,16 +11,9 @@
     
   }
 
-  .headerlogo {
-
-    display: flex;    
-    align-items: center;
-  
-  }
-
   .header strong{
     display: flex;    
     align-items: center;
 
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
