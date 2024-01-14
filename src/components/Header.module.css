@@ -1,0 +1,26 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    gap: 0.5rem;
+  }
+
+  .header img {
+    height: 2rem;
+    
+  }
+
+  .headerlogo {
+
+    display: flex;    
+    align-items: center;
+  
+  }
+
+  .header strong{
+    display: flex;    
+    align-items: center;
+
+    font-size: 1.5rem;
+  }
